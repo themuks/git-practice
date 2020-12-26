@@ -5,6 +5,4 @@ file
 with
 length
 of
-10
-lines
-!
+8 lines
