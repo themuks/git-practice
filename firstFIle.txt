@@ -4,5 +4,4 @@ first
 file
 with
 length
-of
-8 lines
+of 7 lines
